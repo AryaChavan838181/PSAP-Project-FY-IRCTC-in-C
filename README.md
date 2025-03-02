@@ -52,4 +52,4 @@ We welcome contributions! Feel free to fork the repository, make your changes, a
 
 ## Contact
 
-For any questions or suggestions, please open an issue on the repository.
+For any questions or suggestions, please open an issue on the repository.
