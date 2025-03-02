@@ -16,9 +16,10 @@ This project is a simulation of the IRCTC (Indian Railway Catering and Tourism C
 
 ## Technologies Used
 
-- *C*: 94.2%
-- *PHP*: 5.7%
-- *Batchfile*: 0.1%
+- *php mailler* to implement email function (via in house api hosted on hostinger)
+- Curl 
+- GDB for debugging
+- Mysql
 
 ## Setup and Installation
 
